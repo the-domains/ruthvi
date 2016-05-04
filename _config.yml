@@ -1,14 +1,26 @@
-layout_spectrum: 0.4212766
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.898748
 color:
   saturation: 0.2138458
-  lightness: 0.7004309
   brandStrength: 0.476292
+  rhythmicContrast: 0.4190459
   brandColors:
     - '#E1DBDD'
     - '#808B01'
     - '#442417'
     - '#FF2C00'
     - '#DC9768'
-  rhythmicContrast: 0.4190459
+  lightness: 0.7004309
+layout_spectrum: 0.5574468
 name: RuthviP
