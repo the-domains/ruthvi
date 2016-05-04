@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.898748
 color:
-  saturation: 0.2138458
+  saturation: 0.5595745
   brandStrength: 0.476292
-  rhythmicContrast: 0.4190459
+  lightness: 0.3404255
   brandColors:
     - '#E1DBDD'
     - '#808B01'
     - '#442417'
     - '#FF2C00'
     - '#DC9768'
-  lightness: 0.7004309
+  rhythmicContrast: 0.5106383
+typography_spectrum: 0.898748
 layout_spectrum: 0.5574468
 name: RuthviP
