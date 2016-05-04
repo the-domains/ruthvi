@@ -1,4 +1,5 @@
-layout_spectrum: 0.06415647
+layout_spectrum: 0.4212766
+typography_spectrum: 0.898748
 color:
   saturation: 0.2138458
   lightness: 0.7004309
@@ -10,5 +11,4 @@ color:
     - '#FF2C00'
     - '#DC9768'
   rhythmicContrast: 0.4190459
-typography_spectrum: 0.898748
-name: Ruthvi
+name: RuthviP
