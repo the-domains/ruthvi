@@ -12,15 +12,15 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.7404255
 color:
-  saturation: 1
-  brandStrength: 0.9191489
-  lightness: 0.9319149
+  saturation: 0.906383
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#E1DBDD'
     - '#808B01'
     - '#442417'
     - '#FF2C00'
     - '#DC9768'
-  rhythmicContrast: 0.293617
+  rhythmicContrast: 0
 layout_spectrum: 0
 name: RuthviP
