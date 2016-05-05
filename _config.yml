@@ -11,7 +11,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5595745
+  saturation: 1
   brandStrength: 0.9191489
   lightness: 0.9319149
   brandColors:
@@ -22,5 +22,5 @@ color:
     - '#DC9768'
   rhythmicContrast: 1
 typography_spectrum: 0.7404255
-layout_spectrum: 0.5574468
+layout_spectrum: 0
 name: RuthviP
